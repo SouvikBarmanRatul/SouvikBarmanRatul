@@ -1,3 +1,69 @@
+# 💫 Hi 👋, I'm Souvik Barman Ratul
+
+### 🎓 Electrical & Electronic Engineering (EEE) Student at BRAC University
+
+I am passionate about electronics, embedded systems, digital system design and technology. I enjoy learning new skills working on engineering projects and applying technical knowledge to solve real-world problems.
+
+📧 **Email:** barmanratul28@gmail.com
+
+---
+
+## 🚀 About Me
+
+* 🎓 Studying Electrical & Electronic Engineering (EEE) at BRAC University
+* 🔭 Currently working on academic and personal engineering projects
+* 🌱 Currently learning Embedded Systems, IoT, and Microcontroller Programming
+* 👯 Open to collaboration on electronics and engineering-related projects
+* 💬 Ask me about Digital Electronics, Arduino, MATLAB, Proteus, and Engineering Projects
+* ⚡ Fun Fact: I enjoy learning new technologies and building practical solutions
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming
+
+* C
+* C++
+* MATLAB
+
+### Circuit Design & Simulation
+
+* Proteus
+* PSpice
+* LTspice
+* Multisim
+
+### Hardware Platforms
+* ESP32
+
+### Areas of Interest
+
+* Digital Electronics
+* Digital System Design
+* Embedded Systems
+* Internet of Things (IoT)
+* Control Systems
+* Power Electronics
+* Automation
+
+### Software Tools
+
+* Microsoft Word
+* Microsoft Excel
+* Microsoft PowerPoint
+* Canva
+* ADOBE
+
+---
+
+## 📚 Currently Learning
+
+* Embedded C Programming
+* Microcontroller Interfacing
+* IoT Applications
+* Digital System Design
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ratul Barman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ratulbarman9216) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ratul Barman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@EEE Tutorial) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ratul Barman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barmanratul28@gmail.com) 
